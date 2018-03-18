@@ -13,6 +13,8 @@ This package can be installed with the NuGet package manager:
 PM> Install-Package FPar.GEXF
 ```
 
+For sample usage refer to [FPar.GEXF.Sample/Samples.cs](FPar.GEXF.Sample/Samples.cs).
+
 Related links
 -------------
 
