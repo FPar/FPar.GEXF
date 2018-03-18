@@ -12,4 +12,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("Fabian Parzefall")]
 [assembly: AssemblyCopyright("Copyright © Fabian Parzefall 2018")]
 [assembly: ComVisible(false)]
-[assembly: AssemblyVersion("1.2.0")]
+[assembly: AssemblyVersion("1.2.1")]
