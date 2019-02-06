@@ -39,7 +39,7 @@ namespace FPar.GEXF.Sample
 			return new gexfcontent
 			{
 				version = gexfcontentVersion.Item12,
-				graph =
+				graph = new graphcontent
 				{
 					Items = new object[]
 					{
